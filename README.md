@@ -34,7 +34,7 @@ Date, Year, Month, Region, Sales Rep, Brand, Customer Industry, Sales Channel, S
 
   Month
 
-- Dashboard Interaction <a href="https://github.com/shahista-shaikh/E-Commerce-Sales-Dashboard/blob/main/Screenshot%202025-07-05%20174131.png">View Dashboard</a>D
+- Dashboard Interaction <a href="https://github.com/shahista-shaikh/E-Commerce-Sales-Dashboard/blob/main/Screenshot%202025-07-05%20174131.png">View Dashboard</a>
 #  Key Insights
 
 - Total Revenue: ₹5,45,716 Cr across all regions and years (2013–2015).
