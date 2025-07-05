@@ -33,6 +33,8 @@ Year
 Region
 
 Month
+
+- Dashboard Interaction <a href="https://github.com/shahista-shaikh/E-Commerce-Sales-Dashboard/blob/main/Screenshot%202025-07-05%20174131.png">View Dashboard</a>D
 #  Key Insights
 
 Total Revenue: ₹5,45,716 Cr across all regions and years (2013–2015).
@@ -56,3 +58,14 @@ Online and Telesales channels drive the majority of revenue.
 Time-Based Filtering:
 
 Insights are available across 3 years and 12 months, enabling seasonal and trend analysis.
+# Learnings & Skills Demonstrated
+
+Dashboard design principles in Excel
+
+Pivot Tables and interactive filters
+
+Data summarization and visualization
+
+Real-world business intelligence reporting
+
+
