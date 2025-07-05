@@ -16,56 +16,56 @@ Date, Year, Month, Region, Sales Rep, Brand, Customer Industry, Sales Channel, S
 - <a href="https://github.com/shahista-shaikh/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Dataset.xlsx">Dataset</a>
 # Dashboard Features
 
-Total Revenue calculation
+- Total Revenue calculation
 
-Sales Rep Performance (Bar Chart)
+- Sales Rep Performance (Bar Chart)
 
-Sales by Brand (Bar Chart)
+- Sales by Brand (Bar Chart)
 
-Sales Channel Analysis (Horizontal Bar Chart)
+- Sales Channel Analysis (Horizontal Bar Chart)
 
-Industry-wise Revenue (Bar Chart)
+- Industry-wise Revenue (Bar Chart)
 
-Filters for:
+- Filters for:
 
-Year
+  Year
 
-Region
+  Region
 
-Month
+  Month
 
 - Dashboard Interaction <a href="https://github.com/shahista-shaikh/E-Commerce-Sales-Dashboard/blob/main/Screenshot%202025-07-05%20174131.png">View Dashboard</a>D
 #  Key Insights
 
-Total Revenue: ₹5,45,716 Cr across all regions and years (2013–2015).
+- Total Revenue: ₹5,45,716 Cr across all regions and years (2013–2015).
 
-Top-Performing Sales Reps:
+- Top-Performing Sales Reps:
 
-Rose, Glen, and Jenny lead in sales performance.
+- Rose, Glen, and Jenny lead in sales performance.
 
-Best-Selling Brands:
+- Best-Selling Brands:
 
-Gamma and Beta outperform other brands in total revenue.
+- Gamma and Beta outperform other brands in total revenue.
 
-Industry Insights:
+- Industry Insights:
 
-Banking, Retail, and Telecom are the top contributing industries.
+- Banking, Retail, and Telecom are the top contributing industries.
 
-Effective Sales Channels:
+- Effective Sales Channels:
 
-Online and Telesales channels drive the majority of revenue.
+- Online and Telesales channels drive the majority of revenue.
 
-Time-Based Filtering:
+- Time-Based Filtering:
 
-Insights are available across 3 years and 12 months, enabling seasonal and trend analysis.
+- Insights are available across 3 years and 12 months, enabling seasonal and trend analysis.
 # Learnings & Skills Demonstrated
 
-Dashboard design principles in Excel
+- Dashboard design principles in Excel
 
-Pivot Tables and interactive filters
+- Pivot Tables and interactive filters
 
-Data summarization and visualization
+- Data summarization and visualization
 
-Real-world business intelligence reporting
+- Real-world business intelligence reporting
 
 
