@@ -1,13 +1,13 @@
 # E-Commerce-Sales-Dashboard
 This project is an interactive E-Commerce Sales Dashboard designed to visualize and analyze sales performance across multiple dimensions including region, brand, sales representatives, and sales channels. The dashboard was created using Microsoft Excel and leverages Pivot Tables, Slicers, and Charts for dynamic data exploration.
 # Tools Used
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables & Pivot Charts
+- Pivot Tables & Pivot Charts
 
-Slicers for filtering
+- Slicers for filtering
 
-Basic formulas (SUM, COUNT, etc.)
+- Basic formulas (SUM, COUNT, etc.)
 #  Dataset Overview
 The dataset contains sales transactions from multiple countries across three years (2013, 2014, and 2015). Each entry includes detailed information about the sale, such as
 
