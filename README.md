@@ -13,7 +13,7 @@ The dataset contains sales transactions from multiple countries across three yea
 
 Date, Year, Month, Region, Sales Rep, Brand, Customer Industry, Sales Channel, Sales Value
 
-
+- <a href="https://github.com/shahista-shaikh/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Dataset.xlsx">Dataset</a>
 # Dashboard Features
 
 Total Revenue calculation
